@@ -1,0 +1,10 @@
+{
+  "name": "Plugin Mp3tube",
+  "version": "1.0",
+  "description": "Downloads mp3 from yotube videos!",
+  "permissions": ["activeTab"],
+  "browser_action": {
+    "default_popup": "popup.html"
+  },
+  "manifest_version": 2
+}
